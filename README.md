@@ -1,5 +1,10 @@
 # Deep-RL-Cars
 
+Ekin Akyürek, Afra Feyza Toksal (2018)
+Koç University Spring 2018 | Senior Design Project
+Best Senior Design Award
+
+
 [[Video](https://www.youtube.com/watch?v=QPsBcc7cKsM)]
 [[Report](https://drive.google.com/file/d/1bbeWm79buSF_APoqtxqj5IedHD2zMKpf/view?usp=sharing)]
 
