@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 412848035c4ed42b89f6fcf40add7b56
+timeCreated: 1521053652
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CarFab: {fileID: 1360628257276806, guid: a53fe0a0f8ce24cc2a886ebbbd2f174d, type: 2}
+  - EpisodeController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
