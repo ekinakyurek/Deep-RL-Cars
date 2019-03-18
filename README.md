@@ -1,5 +1,7 @@
 # Deep-RL-Cars
 
+! Repository moved to new [address](https://github.com/akyureklab/Deep-RL-Cars) !
+
 Ekin Akyürek, Afra Feyza Akyürek (2018)   
 
 Koç University Spring 2018 | Senior Design Project   
