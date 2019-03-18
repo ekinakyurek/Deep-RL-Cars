@@ -1,6 +1,6 @@
 # Deep-RL-Cars
 
-Ekin Akyürek, Afra Feyza Toksal (2018)   
+Ekin Akyürek, Afra Feyza Akyürek (2018)   
 
 Koç University Spring 2018 | Senior Design Project   
 
